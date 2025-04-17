@@ -1,0 +1,19 @@
+[package]
+name = "aoc2024"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+regex = "1"
+
+[[bin]]
+name = "1"
+path = "1.rs"
+
+[[bin]]
+name = "2"
+path = "2.rs"
+
+[[bin]]
+name = "3"
+path = "3.rs"
