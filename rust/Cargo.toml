@@ -5,6 +5,7 @@ edition = "2024"
 
 [dependencies]
 regex = "1"
+ndarray = "0.15"
 
 [[bin]]
 name = "1"
@@ -25,3 +26,7 @@ path = "4.rs"
 [[bin]]
 name = "5"
 path = "5.rs"
+
+[[bin]]
+name = "6"
+path = "6.rs"
